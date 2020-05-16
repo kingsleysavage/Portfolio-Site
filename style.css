@@ -13,6 +13,14 @@ float: left;
 .side-img{
 width: 70%;
 padding-left: 15%;
+padding-top: 15%;
+}
+.left-img{
+width: 70%;
+padding-left: 10%;
+padding-top: 20%;
+padding-right: 13%;
+padding-bottom: 15%;
 }
 .primary-btn{
 color: white;
