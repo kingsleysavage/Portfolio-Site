@@ -29,6 +29,13 @@ padding: 13px 42px 13px 42px;
 border-radius: 20px;
 text-decoration: none;
 }
+.primary-btnn{
+color: white;
+background-color: #8845f4;
+padding: 4px 38px 4px 38px;
+border-radius: 18px;
+text-decoration: none;
+}
 h1{
 font-size: 1.7em;
 }
